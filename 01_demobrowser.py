@@ -7,10 +7,17 @@ from selenium.webdriver.chrome.service import Service
 # driver=webdriver.Chrome(service_obj)
 # driver.get("https://rahulshettyacademy.com")
 
-
 # chrome driver service
-driver=webdriver.Chrome()  # checks chrome driver version in present system and download the chrome driver and opens Chrome.
+# driver=webdriver.Chrome()  # checks chrome driver version in present system and download the chrome driver and opens Chrome.
+# driver.get("https://rahulshettyacademy.com")
+# print(driver.title)
+# print(driver.current_url)
+
+driver=webdriver.Edge()  # checks chrome driver version in present system and download the chrome driver and opens Chrome.
+driver.maximize_window()
 driver.get("https://rahulshettyacademy.com")
+print(driver.title)
+print(driver.current_url)
 
 
-time.sleep(8)
+time.sleep(5)
