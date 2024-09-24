@@ -5,3 +5,7 @@ password: admin123
 https://admin-demo.nopcommerce.com/login
 Admin email: admin@yourstore.com
 Admin password: admin
+
+https://www.saucedemo.com/
+
+standard_user secret_sauce
