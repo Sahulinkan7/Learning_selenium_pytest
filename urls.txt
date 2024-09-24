@@ -1,0 +1,7 @@
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+username: Admin
+password: admin123
+
+https://admin-demo.nopcommerce.com/login
+Admin email: admin@yourstore.com
+Admin password: admin
