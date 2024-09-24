@@ -9,3 +9,6 @@ Admin password: admin
 https://www.saucedemo.com/
 
 standard_user secret_sauce
+
+
+http://www.automationpractice.pl/index.php
