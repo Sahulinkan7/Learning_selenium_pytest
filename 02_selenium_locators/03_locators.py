@@ -8,4 +8,5 @@ driver.get("http://www.automationpractice.pl/index.php")
 
 name=driver.find_element(By.XPATH,"//*[@id='block_top_menu']/ul/li[2]/a/self::a").text
 
+# "//*[@id='block_top_menu']/ul/li[2]/a/parent::li"
 print(name)
