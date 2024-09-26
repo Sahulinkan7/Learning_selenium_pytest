@@ -12,3 +12,6 @@ standard_user secret_sauce
 
 
 http://www.automationpractice.pl/index.php
+
+
+https://demoqa.com/automation-practice-form
