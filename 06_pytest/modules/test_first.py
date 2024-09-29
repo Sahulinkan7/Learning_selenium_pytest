@@ -16,3 +16,8 @@ class TestClass:
         print("test method 3")
         assert 1==1
         
+    @pytest.mark.regression
+    def test_method4(self):
+        print("test method 4")
+        assert 1==1
+        
